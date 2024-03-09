@@ -37,3 +37,19 @@ First Monitoring Period: 30th September 2022 to 30th Sep 2023
 Date: 30th September 2022 to 30th Sep 2023
 
 1st Crediting Period: 1 year 0 months
+________________
+ISSUANCE DATE: 09/03/2024
+
+MONITORED PERIOD: 30/09/2022-30/09/2023
+_______________
+Serial Number: 0001-000001-000481-UCR-CoU-IN-342-30092022-31122022
+
+Vintage Year: 2022
+
+Quantity: 481
+______________________
+Serial Number: 0001-000482-003185-UCR-CoU-IN-342-01012023-30092023
+
+Vintage Year: 2023
+
+Quantity: 2704
